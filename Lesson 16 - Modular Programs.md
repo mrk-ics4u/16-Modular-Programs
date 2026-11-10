@@ -169,7 +169,7 @@ Then work on the exercise in `WeatherStats.java` and `WeatherReport.java`.
 
 ### ICS 4U
 
-"I can split a program into multiple files (object classes, helper classes, and a driver), decide whether a method should be static or an instance method, and break a task into methods" is a requirement of the course (A2.1, A2.2, A2.3, C1.3, C1.4) and will be expected in your programming project.
+"I can create a modular program that is divided among multiple files." is a requirement of the course and will be expected in your programming project.  You should naturally have multiple files already (classes, inheritance) but you should consider having a helper class as well to exceed expectations.
 
 ### AP Expectations
 

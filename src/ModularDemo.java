@@ -23,6 +23,7 @@ public class ModularDemo {
     public static void main(String[] args) {
 
         // static (class) methods: called on the CLASS name, like Math.sqrt
+        System.out.println(Dice.STANDARD_SIDES);
         int roll = Dice.roll(Dice.STANDARD_SIDES);
         System.out.println("Rolled a " + roll);
         System.out.println("Two dice: " + Dice.rollTotal(2, Dice.STANDARD_SIDES));
